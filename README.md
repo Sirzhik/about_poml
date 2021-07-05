@@ -29,7 +29,7 @@
 
 В версии botalfa-0-2-3 будет добавлена вшитая игра(змейка или пинг-понг).
 
-Пока игру(змейку) можно <a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing"sharing target="_blank">скачать тут:</a>
+Пока игру(змейку) можно <a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing" target="_blank">скачать тут:</a>
 
 <h1>Когда будет бета?</h1>
 
