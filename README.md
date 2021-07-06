@@ -11,11 +11,10 @@
 
 <h1>Скачивание Бота помошника</h1>
 
-<a href="https://www.youtube.com/channel/UCiCS6t9EErkVK1T7Y1u9YRg" target="_blank">Канал автора на YouTube</a>
 
 Почему скачивать нашего помошника? Всё просто! Наш Бот весит очень мало, и станет даже на компьютере 90х годов! Вес самой новой версии бота (botalfa-0-2-2.exe) равен <strong>5.8 мб!</strong> 
 
-Скачать данного бота можно через видео на ютубе на оффициальном канале автора либо прямо <a href="https://drive.google.com/file/d/1GjJFC3hFUqkNVvPABCY7U6Hp9l6lmiqL/view?usp=sharing" target="_blank">тут!</a>
+Скачать данного бота можно прямо <a href="https://drive.google.com/file/d/1GjJFC3hFUqkNVvPABCY7U6Hp9l6lmiqL/view?usp=sharing" target="_blank">тут!</a>
 
 <h1>Что может наш бот?</h1>
 
