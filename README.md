@@ -36,6 +36,6 @@
 <h1 style="color: red">Какие ещё есть приложения?</h1>
 
 Помимо бота у нас есть ещё два приложения, такие как:
-<a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing" target="_blank" target="_blank">Змейка</a>
+<a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing" target="_blank" target="_blank">Змейка, простая но увлекательная игра;</a>
 
-<a href="https://drive.google.com/file/d/1BR0eKGRuVEYQv48hWl4Dnz-9HsOc-voo/view" target="_blank" target="_blank">идеальное приложение для того чтобы пошутить над приятелем :-)</a>
+<a href="https://drive.google.com/file/d/1BR0eKGRuVEYQv48hWl4Dnz-9HsOc-voo/view" target="_blank" target="_blank">SupportOS, идеальное приложение для того чтобы пошутить над приятелем. </a>
