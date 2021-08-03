@@ -43,5 +43,5 @@
 
 <a href="https://drive.google.com/file/d/1_6o3TNvrDc5JAarT1lslg5JIKrDgi0W8/view?usp=sharing" target="_blank" target="_blank"> Скачивание кликера; </a>
 
-<a href="https://drive.google.com/file/d/14ZE1KpA9Ib9W1OS4sMU4HH07664dU7Xp/view?usp=sharing" target="_blank"
+<a href="https://drive.google.com/file/d/1U2uPkrkpHK7pqlMde0IqGO8C1cdqunkN/view?usp=sharing" target="_blank"
 target="_blank"> YT Pirate, классное, консольное приложение! <a/> 
