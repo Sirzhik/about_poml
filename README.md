@@ -13,7 +13,7 @@
 
 Почему скачивать нашего помошника? Всё просто! Наш Бот весит очень мало, и станет даже на бабуленое ведро! Вес самой новой версии бота (BetaBot) равен <strong>9мб!</strong> 
 
-Скачать данного бота можно прямо <a href="https://drive.google.com/file/d/14ExxdBzi37N7LRXyKb5bP-LbGE1SDHQI/view?usp=sharing" target="_blank">тут!</a>
+Скачать данного бота можно прямо <a href="https://drive.google.com/file/d/1QRKUaJqNtg8GdWwg9GMW9FIxKQaEJ4i4/view?usp=sharing" target="_blank">тут!</a>
 
 <h1 style="color: blue">Что может наш бот?</h1>
 
@@ -24,15 +24,11 @@
 
 <h1 style="color: blue">Какие будут обновления дальше?</h1>
 
-В версии ABot1 (которая выйдет после беты) будут добавлена возможность <strong>СОЗДАВАТЬ</strong> файлы!
-
-<h1 style="color: blue">Когда будет релиз?</h1>
-
-Релиз версия бота выйдета выйдет после Беты. Релиз версии будут лишь добавлять новые функции.
+В версии ABot3 будут звуки по окончанию работы таймера.<strong></strong> 
 
 <h1 style="color: blue">На какие ОС можно установить?</h1>
 
-Пока бот работает только в .exe, но автор планирует выпустить бота и под MacOS. 
+Пока бот работает только в .exe, но автор планирует выпустить бота и под Debian(Linux). 
 
 <h1 style="color: red">Какие ещё есть приложения?</h1>
 
@@ -44,4 +40,4 @@
 <a href="https://drive.google.com/file/d/1_6o3TNvrDc5JAarT1lslg5JIKrDgi0W8/view?usp=sharing" target="_blank" target="_blank"> Скачивание кликера; </a>
 
 <a href="https://drive.google.com/file/d/1Zgs-s4NZ6odf6v1_w8KNaiSQ1dXaGQAp/view?usp=sharing" target="_blank"
-target="_blank"> YT Pirate, классное, консольное приложение! <a/> 
+target="_blank"> YT Pirate, классное, консольное приложение! <a/>  
