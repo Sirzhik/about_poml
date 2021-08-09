@@ -13,7 +13,7 @@
 
 Почему скачивать нашего помошника? Всё просто! Наш Бот весит очень мало, и станет даже на бабуленое ведро! Вес самой новой версии бота (BetaBot) равен <strong>9мб!</strong> 
 
-Скачать данного бота можно прямо <a href="https://drive.google.com/file/d/1QRKUaJqNtg8GdWwg9GMW9FIxKQaEJ4i4/view?usp=sharing" target="_blank">тут!</a>
+Скачать данного бота можно прямо <a href="https://files.dp.ua/ru/VevA5zm3x" target="_blank">тут!</a>
 
 <h1 style="color: blue">Что может наш бот?</h1>
 
