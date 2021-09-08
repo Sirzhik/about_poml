@@ -19,11 +19,8 @@
 <h1 style="color: red">Какие ещё есть приложения?</h1>
 
 Помимо бота у нас есть ещё три приложения, такие как:
-<a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing" target="_blank" target="_blank">Змейка, простая но увлекательная игра;</a>
-
-<a href="https://drive.google.com/file/d/1BR0eKGRuVEYQv48hWl4Dnz-9HsOc-voo/view" target="_blank" target="_blank">SupportOS, идеальное приложение для того чтобы пошутить над приятелем; </a>
-
-<a href="https://drive.google.com/file/d/1_6o3TNvrDc5JAarT1lslg5JIKrDgi0W8/view?usp=sharing" target="_blank" target="_blank"> Скачивание кликера; </a>
-
-<a href="https://drive.google.com/file/d/1Zgs-s4NZ6odf6v1_w8KNaiSQ1dXaGQAp/view?usp=sharing" target="_blank"
+* <a href="https://drive.google.com/file/d/1Fn4x6Ff_q0xkeiYYLVWZ_1HrSutGuYkT/view?usp=sharing" target="_blank" target="_blank">Змейка, простая но увлекательная игра;</a>
+* <a href="https://drive.google.com/file/d/1BR0eKGRuVEYQv48hWl4Dnz-9HsOc-voo/view" target="_blank" target="_blank">SupportOS, идеальное приложение для того чтобы пошутить над приятелем; </a>
+* <a href="https://drive.google.com/file/d/1_6o3TNvrDc5JAarT1lslg5JIKrDgi0W8/view?usp=sharing" target="_blank" target="_blank"> Скачивание кликера; </a>
+* <a href="https://drive.google.com/file/d/1Zgs-s4NZ6odf6v1_w8KNaiSQ1dXaGQAp/view?usp=sharing" target="_blank"
 target="_blank"> YT Pirate, классное, консольное приложение! <a/>  
