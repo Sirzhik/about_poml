@@ -1,13 +1,3 @@
-<html>
-    <head>
-        <meta charset="UFT-8">
-        <title>ABot скачивание</title>
-    </head>
-    <body>
-
-    </body>
-</html>
-
 <h1 style="color: blue;">Скачивание Бота помошника</h1>
 
 
