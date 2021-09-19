@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>test</title>
+		<title>ABot download</title>
 		<meta charset="utf-8">
 		<meta name="keywords" content="ABot">
 		<meta name="keywords" content="бот помошник">
