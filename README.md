@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
 		<title>test</title>
 		<meta charset="utf-8">
 		<meta name="keywords" content="ABot">
@@ -44,4 +46,5 @@
 			<li><a href="https://drive.google.com/file/d/1Zgs-s4NZ6odf6v1_w8KNaiSQ1dXaGQAp/view?usp=sharing" target="_blank"
 			target="_blank"> YT Pirate, классное, консольное приложение! <a/></li>
 		</ul>	
-
+	</body>
+</html>
