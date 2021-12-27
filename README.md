@@ -1,3 +1,4 @@
+	<head>
 		<title>test</title>
 		<meta charset="utf-8">
 		<meta name="keywords" content="ABot">
