@@ -1,5 +1,5 @@
 <head>
-	<title>test</title>
+	<title>POML</title>
 	<meta charset="utf-8">
 	<meta name="keywords" content="POML">
 	<meta name="keywords" content="Python Open Minecraft Launcher">
