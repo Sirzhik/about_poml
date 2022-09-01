@@ -5,12 +5,14 @@
 	<meta name="keywords" content="Python Open Minecraft Launcher">
 </head>
 
-* {
-    margin: 5;
-    padding: 0; 
-}
-
 <body>
+
+	* {
+	    margin: 5;
+	    padding: 0; 
+	}
+	
+	<font size="6" color="#ffc107">
 	<p><h1 style="color: blue;">About POML</h1></p>
 	<hr>
 
