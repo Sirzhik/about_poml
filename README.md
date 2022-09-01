@@ -7,12 +7,7 @@
 
 <body>
 
-	* {
-	    margin: 5;
-	    padding: 0; 
-	}
-	
-	<font size="6" color="#ffc107">
+	<font size="5" color="001001005">
 	<p><h1 style="color: blue;">About POML</h1></p>
 	<hr>
 
